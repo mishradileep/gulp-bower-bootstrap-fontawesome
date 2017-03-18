@@ -6,11 +6,10 @@ $font-family-base: 'Raleway', sans-serif;
 @import "bootstrap";
 @import "font-awesome";
 
-// Bootstrap Starter Template Styles
-body {
-  padding-top: 50px;
-}
-.starter-template {
-  padding: 40px 15px;
-  text-align: center;
-}
+// {{Name}} partials
+// --------------------------------------------------
+// @import "base/typography";
+// @import "layout/**/*";
+// @import "menu";
+// @import "template";
+// @import "pages/**/*";
